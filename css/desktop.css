@@ -1,0 +1,47 @@
+@media screen and (min-width: 1440px) {
+
+    .navi
+    {
+        margin-left: 76px;
+        margin-right: 332px;
+    }
+
+.address .list
+{
+    flex-direction: row-reverse;
+}
+
+.section-1 .container {
+    padding: 188px 16px;
+}
+
+
+.section-2 .container .list {
+
+    flex-wrap: nowrap;
+    margin-top: 120px;
+    margin-bottom: 120px;
+  }
+
+  .section-2 .icon {
+  display: block;
+}
+
+ .section-2 .list .h3
+
+{
+    font-size: 20px;
+}
+
+    .section-3 .list {
+        flex-wrap: nowrap;
+    }
+
+.section-4 .container {
+    padding: 156px 120px;
+    
+}
+
+.footer-social-media {margin-right: 56px;}
+
+}
